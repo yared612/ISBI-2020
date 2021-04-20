@@ -1,1 +1,1 @@
-# ISBI-2020
+# ISBI-2020 Challenge
